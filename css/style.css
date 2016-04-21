@@ -1,0 +1,47 @@
+.logo {
+	width: 100px;
+	height: 50px;
+	margin-top: -15px;
+}
+
+.bg-image1 {
+	background-image: url('../ra.jpg');
+
+	width: 100%;
+	
+
+          background-repeat: no-repeat;
+        background-position: center center;
+       background-attachment: fixed;
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+         -o-background-size: cover;
+            background-size: cover;
+}
+
+/*Carousel */
+.top-carousel {
+	height: 440px;
+}
+.top-news{
+	background-color: #AFA7A7;
+}
+
+.top-news:hover{
+    background-color: black !important;
+}
+.grid{
+	width: 275px;
+	height: 175px;
+
+}
+
+.text-white {
+	color: #FFF	  !important;
+}
+.footer-left{
+	vertical-align: left;
+}
+.inner-bg{
+	display: black;
+}
